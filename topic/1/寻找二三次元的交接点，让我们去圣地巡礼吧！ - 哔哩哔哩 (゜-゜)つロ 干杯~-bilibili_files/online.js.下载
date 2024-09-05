@@ -1,0 +1,37 @@
+var _____WB$wombat$assign$function_____ = function(name) {return (self._wb_wombat && self._wb_wombat.local_init && self._wb_wombat.local_init(name)) || self[name]; };
+if (!self.__WB_pmw) { self.__WB_pmw = function(obj) { this.__WB_source = obj; return this; } }
+{
+  let window = _____WB$wombat$assign$function_____("window");
+  let self = _____WB$wombat$assign$function_____("self");
+  let document = _____WB$wombat$assign$function_____("document");
+  let location = _____WB$wombat$assign$function_____("location");
+  let top = _____WB$wombat$assign$function_____("top");
+  let parent = _____WB$wombat$assign$function_____("parent");
+  let frames = _____WB$wombat$assign$function_____("frames");
+  let opener = _____WB$wombat$assign$function_____("opener");
+
+var web_online = 453969;
+var play_online = 673064;
+var onlineInfo={c3:716,c23:698,c160:9634,c13:19329,c36:2451,c167:1952,c5:2328,c1:2773,c4:18303,c155:1328,c181:3370,c119:522};var countInfo={c4:1923,c129:58,c160:702,c119:14,c1:206,c3:362,c13:33,c177:21,c36:244,c5:607,c181:343,c23:5,c155:131,c165:25,c167:24};var detailCountInfo={c17:613,c19:5,c20:25,c21:302,c22:6,c24:23,c25:56,c26:1,c27:102,c28:2,c29:119,c30:11,c31:44,c33:1,c37:10,c39:49,c47:25,c51:2,c54:14,c59:56,c65:547,c71:117,c75:80,c76:48,c85:20,c86:8,c95:55,c96:2,c98:16,c121:24,c122:46,c124:33,c126:7,c130:116,c131:192,c136:65,c137:298,c138:36,c147:5,c152:30,c154:32,c156:1,c157:76,c158:23,c159:11,c161:37,c162:32,c163:59,c164:21,c166:25,c168:17,c169:7,c171:355,c172:264,c173:50,c174:81,c175:27,c176:43,c178:6,c180:5,c182:34,c183:237,c184:44};
+
+}
+/*
+     FILE ARCHIVED ON 23:07:42 Nov 01, 2017 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 11:13:24 Sep 05, 2024.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 1.106
+  exclusion.robots: 0.042
+  exclusion.robots.policy: 0.025
+  esindex: 0.014
+  cdx.remote: 12.25
+  LoadShardBlock: 276.761 (3)
+  PetaboxLoader3.datanode: 98.763 (4)
+  PetaboxLoader3.resolve: 418.904 (2)
+  load_resource: 283.598
+*/
