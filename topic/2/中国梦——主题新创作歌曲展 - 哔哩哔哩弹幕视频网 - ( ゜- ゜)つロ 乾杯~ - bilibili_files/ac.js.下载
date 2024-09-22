@@ -1,0 +1,41 @@
+var _____WB$wombat$assign$function_____ = function(name) {return (self._wb_wombat && self._wb_wombat.local_init && self._wb_wombat.local_init(name)) || self[name]; };
+if (!self.__WB_pmw) { self.__WB_pmw = function(obj) { this.__WB_source = obj; return this; } }
+{
+  let window = _____WB$wombat$assign$function_____("window");
+  let self = _____WB$wombat$assign$function_____("self");
+  let document = _____WB$wombat$assign$function_____("document");
+  let location = _____WB$wombat$assign$function_____("location");
+  let top = _____WB$wombat$assign$function_____("top");
+  let parent = _____WB$wombat$assign$function_____("parent");
+  let frames = _____WB$wombat$assign$function_____("frames");
+  let opener = _____WB$wombat$assign$function_____("opener");
+
+(function(){function r(b,c){var a=[],f;for(f in c)Object.prototype.hasOwnProperty.call(c,f)&&a.push(encodeURIComponent(f)+"="+encodeURIComponent(c[f]||""));a.push("_="+ +new Date);b+=a.join("&");"Microsoft Internet Explorer"===window.navigator.appName&&(a=(window.navigator.userAgent||"").match(/msie (\d+\.\d)/i))&&8>parseInt(a[1],10)&&(b=b.slice(0,2048));a=e.createElement("div");a.id="any_log";f=e.body;f.insertBefore(a,f.firstChild);f=['<iframe width="1" height="1" ','src="'+b+'" ','align="center" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" allowtransparency="true" </iframe>'].join("");
+a.innerHTML=f}var j=!1,s=!1,t=!1,e=window.document,k=-1!==window.location.href.indexOf("cf=u");try{var n=window.localStorage}catch(z){}window.isJsReady=function(){return"anyFlashReady"};var u=function(b,c){var a=RegExp("(^| )"+b+"=([^;]*)(;|$)").exec(e.cookie);return a?c?decodeURIComponent(a[2]):a[2]:""},v=function(b,c,a,f){var d=a.expires;"number"===typeof d&&(d=new Date,d.setTime(+d+a.expires));e.cookie=b+"="+(f?encodeURIComponent(c):c)+(a.path?"; path="+a.path:"")+(d?"; expires="+d.toGMTString():
+"")+(a.domain?"; domain="+a.domain:"")},l=function(b,c){c&&0>c.indexOf(":FG=1")&&(c+=":FG=1");if(u(b)!==c){var a=new Date;a.setTime(a.getTime()+864E8);v(b,c,{path:"/",expires:a})}},i=function(b,c){if(void 0!==c)v(b,c,{});else return u(b)},w=function(b,c){var a=-1!==navigator.appName.indexOf("Microsoft")?e.getElementById("BAIDU_CLB_ac_o_flash"):e.getElementById("BAIDU_CLB_ac_o_flash_embed");if(!a)return"";if(void 0!==c)a.anySetSO(b,c);else return a.anyGetSO(b)},x=function(b,c){try{var a;a=e.getElementById("cPersistDiv")?
+e.getElementById("cPersistDiv"):e.createElement("div");a.style.visibility="hidden";a.style.position="absolute";a.setAttribute("id","cPersistDiv");e.body.appendChild(a);a.style.behavior="url(#default#userData)";if(void 0!==c)a.setAttribute(b,c),a.save(b);else return a.load(b),a.getAttribute(b)}catch(d){}},y=function(b,c){try{if(n)if(void 0!==c)n.setItem(b,c);else return n.getItem(b)||void 0}catch(a){}},o="",p=i("CPROID")||i("BAIDUID")||"",d=x("CPROID")||"",g=y("CPROID")||"",m="",h=p||d||g;d&&l("UDID",
+d);g&&l("LDID",g);window.anyFlashReady=function(){t=!0;var b=m=w("CPROID");b||(w("CPROID",h),m=b=h);l("FCID",b);!j&&t&&s&&(r("https://web.archive.org/web/20150427161333/http://eclick.baidu.com/fp.htm?",{ci:h,cn:p,cu:d,cl:g,cf:m,ce:o,ff:q,nip:""}),j=!0)};d||x("CPROID",h);g||y("CPROID",h);var q="c";!0===k&&(q="u");window.setEtag=window.getEtag=function(b){s=!0;b&&(o=b,l("ETID",b))};k=e.createElement("script");k.src="https://web.archive.org/web/20150427161333/http://ec.pos.baidu.com/b.php";i=e.body;i.insertBefore(k,i.firstChild);setTimeout(function(){j||(r("https://web.archive.org/web/20150427161333/http://eclick.baidu.com/fp.htm?",
+{ci:h,cn:p,cu:d,cl:g,cf:m,ce:o,ff:q,nip:""}),j=!0)},800)})();
+
+
+}
+/*
+     FILE ARCHIVED ON 16:13:33 Apr 27, 2015 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 02:20:25 Sep 22, 2024.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 2.149
+  exclusion.robots: 0.031
+  exclusion.robots.policy: 0.018
+  esindex: 0.011
+  cdx.remote: 5.384
+  LoadShardBlock: 118.915 (3)
+  PetaboxLoader3.datanode: 89.309 (5)
+  PetaboxLoader3.resolve: 159.083 (3)
+  load_resource: 242.166 (2)
+*/
