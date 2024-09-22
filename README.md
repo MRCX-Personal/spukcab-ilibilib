@@ -5,7 +5,7 @@
 
 目前计划：专栏(topic)已被删除的页面、一些番剧(bangumi)的弹幕池。
 
-如果某个文章或者内容侵犯了您的合法权益，请发issues联系删除。
+该仓库内容仅用于怀旧、交流和学习等，请与下载后24小时内删除。如果某个文章或者内容侵犯了您的合法权益，请发issues联系删除。
 
 感谢[https://web.archive.org/](https://web.archive.org/ "Wayback Machine")，以及[https://github.com/MotooriKashin/Bilibili-Old](https://github.com/MotooriKashin/Bilibili-Old "Bilibili-Old")。
 
