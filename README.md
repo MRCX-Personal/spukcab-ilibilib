@@ -1,4 +1,10 @@
 # spukcab-ilibilib
+*为了没有遗憾的昨天，和不再失去的明天。
+
+哔哩哔哩备份计划。备份哔哩哔哩(Bilibili)已经被删除了的旧的活动和专题栏目，以及一些比较经典的老番的历史弹幕。
+
+missing表示该页面可以从网络时光机抓取到，但内容缺失；inaccessible表示该页面无法找到相应的历史存档。
+
 尽量使用和主题帖发布一致或相近的年份的源进行抓取快照，保证了页面的风味。建议使用浏览器直接访问mhtml文件，即可看到和当年一样的页面。mhtml页面里面的绝大多数元素都可以正常显示，但是超链接仍然是Wayback Machine的；html页面超链接已经替换成可直接访问的链接，但是页面会丢失元素。
 
 （html版本已经替换链接，可以直达正常的页面，但加载比较缓慢；mhtml版本加载迅速，但未替换链接，正在寻找可行的替换方法。）
@@ -9,4 +15,4 @@
 
 感谢[https://web.archive.org/](https://web.archive.org/ "Wayback Machine")，以及[https://github.com/MotooriKashin/Bilibili-Old](https://github.com/MotooriKashin/Bilibili-Old "Bilibili-Old")。
 
-*为了没有遗憾的昨天，和不再失去的明天。
+
